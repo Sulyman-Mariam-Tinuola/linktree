@@ -13,7 +13,6 @@ const Links = () => {
 <a href={'https://training.zuri.team/'}>Zuri Team</a>
 <a href={'https://books.zuri.team/'}>Zuri Books</a>
 <a href={'https://books.zuri.team/'}>Phython Books</a>
-<a href={'https://books.zuri.team/'}>Phython Books</a>
 <a href={'https://background.zuri.team'}>background check for coders</a>
 <a href={'https://books.zuri.team/design-rules'}>Design Books</a>
 

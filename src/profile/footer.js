@@ -4,7 +4,6 @@ const Footer = () => {
     
   return (
     <div className='footer'>
-      <p>hello</p>
         <section className='fs'>
         <span className='zuri'>Zuri</span>
         <p className='dot'></p>
